@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 edgybees/titiler is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [NGINX](http://nginx.org) – Web Servers
 - [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
@@ -12,11 +13,13 @@ edgybees/titiler is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 edgybees/titiler is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1052/YMxUfyWf.png' alt='NGINX'/> [NGINX](http://nginx.org) – Web Servers
 - <img width='25' height='25' src='https://img.stackshare.io/service/1142/197655.png' alt='Mustache'/> [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
@@ -27,14 +30,15 @@ edgybees/titiler is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [edgybees/titiler](https://github.com/edgybees/titiler)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|16<br/>Tools used|11/13/23 <br/>Report generated|
+|16<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -145,14 +149,14 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[boto3](https://pypi.org/boto3)|N/A|11/12/21|vincentsarago |Apache-2.0|N/A|
-|[fastapi](https://pypi.org/fastapi)|v0.95.1|07/10/23|Vincent Sarago |MIT|N/A|
-|[numpy](https://pypi.org/numpy)|N/A|02/07/23|Vincent Sarago |BSD-3-Clause|N/A|
-|[pydantic](https://pypi.org/pydantic)|v1.10.11|07/06/23|Abhemanyu Sarin |MIT|N/A|
-|[python-dotenv](https://pypi.org/python-dotenv)|N/A|12/18/20|Vincent Sarago |BSD-3-Clause|N/A|
-|[simplejson](https://pypi.org/simplejson)|N/A|07/10/23|Vincent Sarago |MIT|N/A|
+|[boto3](https://pypi.org/project/boto3)|N/A|11/12/21|vincentsarago |Apache-2.0|N/A|
+|[fastapi](https://pypi.org/project/fastapi)|v0.95.1|07/10/23|Vincent Sarago |MIT|N/A|
+|[numpy](https://pypi.org/project/numpy)|N/A|02/07/23|Vincent Sarago |BSD-3-Clause|N/A|
+|[pydantic](https://pypi.org/project/pydantic)|v1.10.11|07/06/23|Abhemanyu Sarin |MIT|N/A|
+|[python-dotenv](https://pypi.org/project/python-dotenv)|N/A|12/18/20|Vincent Sarago |BSD-3-Clause|N/A|
+|[simplejson](https://pypi.org/project/simplejson)|N/A|07/10/23|Vincent Sarago |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
